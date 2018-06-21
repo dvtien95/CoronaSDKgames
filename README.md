@@ -4,7 +4,7 @@ These game are available on appStore. Use the search term or the link below to s
 
 Jumpee Duck or https://itunes.apple.com/us/app/jumpee-duck/id1260951842?mt=8
 
-![](master/JumpyDuck/screenshot/Jumpee%20Duck%20(1).jpg "Jumpee Duck")
+![alt text](https://github.com/dvtien95/CoronaSDKgames/blob/master/JumpyDuck/screenshot/Jumpee%20Duck%20(1).jpg)
 
 [https://github.com/dvtien95/CoronaSDKgames/blob/master/JumpyDuck/screenshot/Jumpee%20Duck%20(1).jpg]
 
