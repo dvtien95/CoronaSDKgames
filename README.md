@@ -14,7 +14,7 @@ Son of the Beach or https://itunes.apple.com/us/app/son-of-the-beach/id126285049
 
 Balloon-pop or https://itunes.apple.com/us/app/ballooon-pop/id1263406550?mt=8
 
-![alt text](https://github.com/dvtien95/CoronaSDKgames/blob/master/dulusoft-balloonpop/screenshot/BalloonPop(3).jpg)
+![alt text](https://github.com/dvtien95/CoronaSDKgames/blob/master/dulusoft-balloonpop/screenshot/BallooonPop(2).jpg)
 
 
 Game of Memories or https://itunes.apple.com/us/app/game-of-memories/id1268333367?mt=8
