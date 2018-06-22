@@ -4,10 +4,10 @@ These game are available on appStore. Use the search term or the link below to s
 
 Jumpee Duck or https://itunes.apple.com/us/app/jumpee-duck/id1260951842?mt=8
 
-![alt text](https://github.com/dvtien95/CoronaSDKgames/blob/master/JumpyDuck/screenshot/JumpeeDuck(1).jpg)
+![alt text](https://github.com/dvtien95/CoronaSDKgames/blob/master/JumpyDuck/screenshot/JumpeeDuck(2).jpg)
 
 
-Son of the Beach or https://itunes.apple.com/us/app/son-of-the-beach/id1262850497?mt=8
+SOTB or https://itunes.apple.com/us/app/son-of-the-beach/id1262850497?mt=8
 
 ![alt text](https://github.com/dvtien95/CoronaSDKgames/blob/master/SonOfTheBeach/screenshot/SOTB(2).jpg)
 
